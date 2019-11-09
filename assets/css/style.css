@@ -1,0 +1,23 @@
+body {
+    background-image: url('../image/circle-blues.png');
+    background-repeat: cover; 
+}
+
+.padding{
+    background-color: blueviolet;
+}
+.navbar{
+
+    float: right;
+}
+#main{
+    border: 3px;
+    width:50%;
+    height:30px;
+    
+}
+
+.container {
+    background-color: white;
+
+}
